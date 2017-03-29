@@ -15,11 +15,11 @@ cask 'docker'
 cask 'sourcetree'
 cask 'keepingyouawake'
 cask 'ngrok'
+cask 'android-sdk'
 brew 'git'
 brew 'node@6', args: ['without-npm']
 brew 'yarn'
 brew 'mas'
-brew 'android-sdk'
 brew 'heroku'
 brew 'watchman'
 mas 'Microsoft Remote Desktop', id: 715768417
